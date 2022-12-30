@@ -1,3 +1,6 @@
 *.py
 *.net
 *.txt
+
+
+!fourth.py
